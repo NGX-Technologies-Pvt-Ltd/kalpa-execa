@@ -18,6 +18,9 @@
     "exec",
     "automation"
   ],
+  "dependencies": {
+    "execa": "^4.0.1"
+  },
   "devDependencies": {
     "coveralls": "^3.0.7",
     "eslint": "^6.6.0",
