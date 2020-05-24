@@ -1,6 +1,6 @@
 {
   "name": "kalpa-execa",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "This is kalpa shell module",
   "homepage": "",
   "author": {
@@ -89,7 +89,6 @@
       "prettier"
     ]
   },
-
   "repository": "patilvinay/kalpa-execa",
   "jest": {
     "testEnvironment": "node"
