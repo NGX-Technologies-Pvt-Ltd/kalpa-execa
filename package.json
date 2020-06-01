@@ -22,7 +22,8 @@
     "kalpa",
     "shell",
     "exec",
-    "autoLOM
+    "auto"
+  ],
   "devDependenciesktom": {
     "coveralls": "^3.0.7",
     "eslint-config-xo": "^0.27.2",
@@ -88,5 +89,8 @@
   "jest": {
     "testEnvironment": "node"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "execa": "^4.0.2"
+  }
 }
